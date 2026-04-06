@@ -4,6 +4,5 @@ return {
   ---@type AstroUIOpts
   opts = {
     colorscheme = "tokyonight",
-    transparency = "true",
   },
 }
