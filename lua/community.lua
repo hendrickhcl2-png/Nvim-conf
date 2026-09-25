@@ -8,5 +8,6 @@ return {
   { import = "astrocommunity.pack.tailwindcss" },
   { import = "astrocommunity.pack.go" },
   { import = "astrocommunity.pack.sql" },
+  { import = "astrocommunity.pack.python" },
   { import = "astrocommunity.colorscheme.tokyonight-nvim" },
 }
